@@ -1,0 +1,30 @@
+.card {
+
+    max-width: 600px; /* define o tamanho do cartao, deixa ele correto */
+    margin: 0 auto; /* define a margem para ficar ao centro de tudo */
+    border: 5px solid #ccc; /* definição das bordas */
+    border-radius: 8px; /* a borda redonda e sua circunferência */
+    margin-top: 2cm; 
+    margin-bottom: 4cm;
+
+}
+
+.footer {
+
+    background-color: #b2b3b6;
+    padding: 20px 0;
+    text-align: center;
+    position: fixed;
+    bottom: 0; /* margin bottom, define a posição colado ao final */
+    width: 100%;
+    
+}
+
+body { /* configurações gerais da tela */
+
+    background-color: #003366; 
+    font-family: Arial, sans-serif; 
+
+  }
+
+  
